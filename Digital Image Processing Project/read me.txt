@@ -1,0 +1,2 @@
+This is Digital Image Processing Project.
+All you have to do to run this repository is to download it and run it after replacing the required file on which you want to detect lines.
